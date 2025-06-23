@@ -1,7 +1,3 @@
-Great! Here's your detailed `README.md` file with a full walkthrough of your project, covering both the E-Commerce Click Prediction Dashboard and the PDF Q&A Chatbot (including how it evolved from `chatbot_app.py` to `rag_chatbot_app.py` and then into the final `main_app.py`):
-
----
-
 # 📊 E-Commerce Real-Time Click Prediction & PDF Q&A Assistant  
 ### By Vigneshwar Raipally  
 **Imarticus Data Science Internship - Assessment Cohort 5**
